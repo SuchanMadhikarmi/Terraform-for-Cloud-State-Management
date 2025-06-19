@@ -6,6 +6,10 @@ The entire infrastructure was broken down into **modular Terraform files**, foll
 
 ---
 
+<p align="center">
+  <img src="https://i.imgur.com/1cdDAR4.png" height="80%" width="80%" alt="Geolocation Lookup"/>
+</p>
+
 ## Technologies Used
 
 - **Terraform**
